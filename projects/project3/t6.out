@@ -1,0 +1,32 @@
+Enter line 1: Enter line 2: Enter line 3: Enter line 4: Enter line 5: Enter line 6: Enter line 7: Enter line 8: Enter line 9: 
+
+Input puzzle:
+
+000007009
+408009300
+030000017
+001080006
+000506000
+500020700
+890000020
+007400905
+300900000
+
+Solved by brute force with backtracking.
+Single candidates found: 1
+Failed attempts: 41434
+Backtracks: 5154
+
+Solution:
+
+152 | 837 | 469
+478 | 619 | 352
+639 | 245 | 817
+---------------
+921 | 783 | 546
+743 | 596 | 281
+586 | 124 | 793
+---------------
+895 | 371 | 624
+217 | 468 | 935
+364 | 952 | 178

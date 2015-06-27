@@ -1,0 +1,158 @@
+
+Welcome aboard the Lunar Module Flight Simulator
+
+   To begin you must specify the LM's initial altitude
+   and fuel level.  To simulate the actual LM use
+   values of 1300 meters and 500 liters, respectively.
+
+   Good luck and may the force be with you!
+
+Enter the initial altitude of the LM (in meters): Enter the initial amount of fuel on board the LM (in liters): 
+LM state at retrorocket cutoff
+Elapsed Time:    0 s
+        Fuel:  100 l
+        Rate:    0 l/s
+    Altitude:  100.00 m
+    Velocity:    0.00 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    1 s
+        Fuel:  100 l
+        Rate:    0 l/s
+    Altitude:   99.19 m
+    Velocity:   -1.62 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    2 s
+        Fuel:   99 l
+        Rate:    1 l/s
+    Altitude:   96.92 m
+    Velocity:   -2.92 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    3 s
+        Fuel:   97 l
+        Rate:    2 l/s
+    Altitude:   93.52 m
+    Velocity:   -3.89 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    4 s
+        Fuel:   94 l
+        Rate:    3 l/s
+    Altitude:   89.31 m
+    Velocity:   -4.54 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    5 s
+        Fuel:   90 l
+        Rate:    4 l/s
+    Altitude:   84.61 m
+    Velocity:   -4.86 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    6 s
+        Fuel:   85 l
+        Rate:    5 l/s
+    Altitude:   79.75 m
+    Velocity:   -4.86 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    7 s
+        Fuel:   79 l
+        Rate:    6 l/s
+    Altitude:   75.05 m
+    Velocity:   -4.54 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    8 s
+        Fuel:   72 l
+        Rate:    7 l/s
+    Altitude:   70.84 m
+    Velocity:   -3.89 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:    9 s
+        Fuel:   64 l
+        Rate:    8 l/s
+    Altitude:   67.44 m
+    Velocity:   -2.92 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   10 s
+        Fuel:   55 l
+        Rate:    9 l/s
+    Altitude:   65.17 m
+    Velocity:   -1.62 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   11 s
+        Fuel:   55 l
+        Rate:    0 l/s
+    Altitude:   62.74 m
+    Velocity:   -3.24 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   12 s
+        Fuel:   54 l
+        Rate:    1 l/s
+    Altitude:   58.85 m
+    Velocity:   -4.54 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   13 s
+        Fuel:   52 l
+        Rate:    2 l/s
+    Altitude:   53.83 m
+    Velocity:   -5.51 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   14 s
+        Fuel:   49 l
+        Rate:    3 l/s
+    Altitude:   48.00 m
+    Velocity:   -6.16 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   15 s
+        Fuel:   45 l
+        Rate:    4 l/s
+    Altitude:   41.68 m
+    Velocity:   -6.48 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   16 s
+        Fuel:   40 l
+        Rate:    5 l/s
+    Altitude:   35.20 m
+    Velocity:   -6.48 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   17 s
+        Fuel:   34 l
+        Rate:    6 l/s
+    Altitude:   28.88 m
+    Velocity:   -6.16 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   18 s
+        Fuel:   27 l
+        Rate:    7 l/s
+    Altitude:   23.05 m
+    Velocity:   -5.51 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   19 s
+        Fuel:   19 l
+        Rate:    8 l/s
+    Altitude:   18.03 m
+    Velocity:   -4.54 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   20 s
+        Fuel:   10 l
+        Rate:    9 l/s
+    Altitude:   14.14 m
+    Velocity:   -3.24 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   21 s
+        Fuel:   10 l
+        Rate:    0 l/s
+    Altitude:   10.09 m
+    Velocity:   -4.86 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): Elapsed Time:   22 s
+        Fuel:    9 l
+        Rate:    1 l/s
+    Altitude:    4.58 m
+    Velocity:   -6.16 m/s
+
+Enter fuel rate (0-9, 0=freefall, 5=constant velocity, 9=max thrust): 
+LM state at landing/impact
+Elapsed Time:   23 s
+        Fuel:    7 l
+        Rate:    2 l/s
+    Altitude:    0.00 m
+    Velocity:   -7.13 m/s
+
+Status at landing - Enjoy your oxygen while it lasts!

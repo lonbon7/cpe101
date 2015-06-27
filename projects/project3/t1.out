@@ -1,0 +1,32 @@
+Enter line 1: Enter line 2: Enter line 3: Enter line 4: Enter line 5: Enter line 6: Enter line 7: Enter line 8: Enter line 9: 
+
+Input puzzle:
+
+320000050
+100600930
+900710800
+478950026
+000000000
+260037541
+002076003
+043002005
+010000079
+
+Solved by single candidate technique.
+Single candidates found: 45
+Failed attempts: 0
+Backtracks: 0
+
+Solution:
+
+326 | 489 | 157
+187 | 625 | 934
+954 | 713 | 862
+---------------
+478 | 951 | 326
+531 | 264 | 798
+269 | 837 | 541
+---------------
+892 | 576 | 413
+743 | 192 | 685
+615 | 348 | 279

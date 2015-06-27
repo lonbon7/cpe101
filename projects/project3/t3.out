@@ -1,0 +1,32 @@
+Enter line 1: Enter line 2: Enter line 3: Enter line 4: Enter line 5: Enter line 6: Enter line 7: Enter line 8: Enter line 9: 
+
+Input puzzle:
+
+080507000
+501030020
+006029004
+053002000
+029378150
+000100930
+900280600
+040060205
+000903000
+
+Solved by brute force with no backtracking.
+Single candidates found: 39
+Failed attempts: 39
+Backtracks: 0
+
+Solution:
+
+284 | 517 | 369
+591 | 436 | 728
+736 | 829 | 514
+---------------
+153 | 692 | 487
+429 | 378 | 156
+867 | 145 | 932
+---------------
+915 | 284 | 673
+348 | 761 | 295
+672 | 953 | 841

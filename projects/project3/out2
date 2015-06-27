@@ -1,0 +1,32 @@
+Enter line 1: Enter line 2: Enter line 3: Enter line 4: Enter line 5: Enter line 6: Enter line 7: Enter line 8: Enter line 9: 
+
+Input puzzle:
+
+001800700
+253000000
+000000695
+000120009
+307000804
+600038000
+894000000
+000000431
+002006900
+
+Solved by single candidate technique.
+Single candidates found: 53
+Failed attempts: 0
+Backtracks: 0
+
+Solution:
+
+961 | 854 | 723
+253 | 769 | 148
+748 | 213 | 695
+---------------
+485 | 127 | 369
+327 | 695 | 814
+619 | 438 | 572
+---------------
+894 | 371 | 256
+576 | 982 | 431
+132 | 546 | 987

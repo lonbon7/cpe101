@@ -1,0 +1,5 @@
+Enter a number to find: Enter a list of numbers (negative to quit): 
+This list contains 15 numbers.
+First occurrence of '4': 3
+Last occurrence of '4': 15
+Quite a few were found!

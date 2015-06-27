@@ -1,0 +1,75 @@
+#include <stdio.h>
+#include <string.h>
+
+#define SECS_PER_HOUR 3600
+#define SECS_PER_MIN 60
+
+typedef struct
+{
+   char name[20];
+   double distance;
+   double prSec;
+   int count;
+} Run;
+
+void secsToHMS(int totalSecs, int *h, int *m, int *s);
+void findRun(Run r[], int numRuns, char name[], int *index);
+void writeFile(Run r[], int numRuns);
+void readFile(Run r[], int numRuns);
+
+int main(void)
+{
+
+
+   return 0;
+}
+
+void readFile(Run r[], numRuns)
+{  
+   int i = 0;
+
+   FILE *fp;
+   fp = fopen("run.data", "r");
+   if(fp == NULL)
+   {
+      printf("Couldn't open file.\n");
+      return 0;
+   }
+   
+   while(i < numRuns && fscanf(fp, "%s", r[i].name) != EOF)
+   {
+      fscanf(fp, "%lf", r[i].distance);
+      fscanf(fp, "%lf", r[i].prSec);
+      fscanf(fp, "%d", r[i].count);
+      i++;
+   }
+}
+void secsToHMS(int totalSecs, int *h, int *m, int *s)
+{
+   /* Implement me in Part 1 */
+}
+
+void findRun(Run runs[], int numRuns, char name[], int *index)
+{
+   int i;
+
+   *index = -1;
+
+   for (i=0; i<numRuns && *index==-1; i++)
+      if (!strcmp(name, runs[i].name))
+         *index = i;
+}
+
+void writeFile(Run runs[], int numRuns)
+{
+   FILE *fp = NULL;
+   int i = 0;
+
+   fp = fopen("run.data", "w");
+
+   for (i = 0; i<numRuns; i++) {
+      fprintf(fp, "%s %.2f %d %d\n", runs[i].name, runs[i].distance,
+       runs[i].prSec, runs[i].count);
+   }
+   fclose(fp);
+}

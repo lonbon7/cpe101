@@ -1,0 +1,18 @@
+/* Section 03 */
+/* Lonnie Bissmeyer */
+
+#include <stdio.h>
+#include <math.h>
+
+#define PI 3.141593
+
+int main(void)
+{
+   int diameter, cost, num_people, radius, area, circumference;
+
+   radius = (diameter / 2);
+   area = (PI * radius * radius);
+   circumference = (PI * 2 * radius);
+
+   return (0);
+}

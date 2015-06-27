@@ -1,0 +1,18 @@
+Enter line 1: Enter line 2: Enter line 3: Enter line 4: Enter line 5: Enter line 6: Enter line 7: Enter line 8: Enter line 9: 
+
+Input puzzle:
+
+400007009
+408009300
+030000017
+001080006
+000506000
+500020700
+890000020
+007400905
+300900000
+
+Puzzle is not solvable.
+Single candidates found: 1
+Failed attempts: 7441
+Backtracks: 930

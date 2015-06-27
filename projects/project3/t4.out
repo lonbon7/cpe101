@@ -1,0 +1,32 @@
+Enter line 1: Enter line 2: Enter line 3: Enter line 4: Enter line 5: Enter line 6: Enter line 7: Enter line 8: Enter line 9: 
+
+Input puzzle:
+
+010042000
+008053010
+900071560
+400700600
+067205130
+002004005
+080430001
+030120700
+000580090
+
+Solved by brute force with no backtracking.
+Single candidates found: 42
+Failed attempts: 26
+Backtracks: 0
+
+Solution:
+
+315 | 642 | 987
+678 | 953 | 412
+924 | 871 | 563
+---------------
+453 | 718 | 629
+867 | 295 | 134
+192 | 364 | 875
+---------------
+786 | 439 | 251
+539 | 126 | 748
+241 | 587 | 396
